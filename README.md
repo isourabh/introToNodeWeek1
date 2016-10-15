@@ -26,5 +26,5 @@ Time spent: `4hrs`
 
 ## Walkthrough Gif:
 
-`week1.gif`
-![Video Walkthrough](...)
+`<Add your Walkthrough Gif here (by updating the image URL)>`
+![week1.gif](...)
