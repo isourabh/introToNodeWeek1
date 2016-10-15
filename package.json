@@ -3,6 +3,10 @@
   "version": "1.1.0",
   "description": "A collection of CLI utilities",
   "scripts": {
+    "echo": "babel-node echo.js",
+    "cat": "babel-node cat.js",
+    "ls": "babel-node ls.js",
+    "rm": "babel-node rm.js",
     "test": "mocha --compilers js:babel-register test/spec",
     "dev": "run-p watch:test watch:lint",
     "lint": "eslint ./",
