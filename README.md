@@ -8,8 +8,8 @@ Time spent: `4hrs`
 
 ### Required
 
-- [x] Completed Requireds marked with `[x]`
-- [ ] Walkthrough Gif embedded in README
+- [x] Cxmpleted Requireds marked with `[x]`
+- [X] Walkthrough Gif embedded in README
 - [x] README `Time spent:` includes the number of hours spent on the assignment
 - [x] `echo.js` prints the first argument to stdout
 - [x] `cat.js` prints the contents of the first argument to stdout
